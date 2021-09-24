@@ -1,0 +1,4 @@
+enum TypeSize
+{
+	ONEINCH,TWOINCH,NINEINCH,THREEINCH;
+}
