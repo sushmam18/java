@@ -1,0 +1,4 @@
+enum Icecolor
+{
+	ORANGE,PINK,PURPLE,WHITE,YELLOW,BLUE;
+}

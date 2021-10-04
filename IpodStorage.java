@@ -1,0 +1,4 @@
+enum IpodStorage
+{
+	GB,MB;
+}
