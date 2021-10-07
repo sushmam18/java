@@ -5,8 +5,8 @@ class num
   int num;
   System.out.println("enter  num");
     if(num%2==0)
-    System.out.println("num is even"+even);
+    System.out.println("num is even");
 	else
-	System.out.println("num is odd"+odd);
+	System.out.println("num is odd");
   }
 }
